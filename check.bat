@@ -2,5 +2,5 @@
 
 :1
 python checker.py
-timeout 6000
+timeout 3600
 goto :1
