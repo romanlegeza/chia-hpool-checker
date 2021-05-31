@@ -1,2 +1,2 @@
 # chia-hpool-checker
-Simple checker to compare your local Chia plots to HPool
+Simple script to compare your local Chia plots to HPool
