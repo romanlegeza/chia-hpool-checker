@@ -1,6 +1,6 @@
 # Telegram bot
-telegram_token_id: 1725268359:AAHQz5JpfqJ6Jp9cmdRZwEPHWTTujPoTLgg
-telegram_chat_id: -1001166941557
+telegram_token_id: 
+telegram_chat_id: 
 
 # HPool Miner location
 hpool_path: c:\Chia\HPool-Miner-chia\
