@@ -1,6 +1,8 @@
 # Chia HPool Checker
 Simple script to compare your local Chia plots to HPool and send a notification to you Telegram chat via bot
 
+![The view of the message](https://i.imgur.com/BD22yMP.png "View")
+
 ## Installation
 
 The installation of this library is straightforward.
